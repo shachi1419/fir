@@ -20,4 +20,5 @@ plt.plot(x, b0 + b1 * x, color="red", label="Regression line")
 plt.xlabel('x')
 plt.ylabel('y')
 plt.legend()
-plt.show()
+myself shachi
+
